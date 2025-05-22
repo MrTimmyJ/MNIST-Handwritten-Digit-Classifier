@@ -8,7 +8,6 @@ Date: April 2024
 
 &nbsp;&nbsp;&nbsp;&nbsp;MNIST Image Decoder is a Python script that loads and visualizes the MNIST handwritten digits dataset directly from the original binary files.
 It provides a simple interface for decoding, reshaping, and displaying grayscale images using NumPy and Pillow, offering a foundational introduction to preprocessing deep learning datasets from raw formats.
-It provides a simple interface to decode, reshape, and display the grayscale images using NumPy and Pillow, offering a foundational introduction to how deep learning datasets are preprocessed from raw formats.
 
 🧩 Features
 
