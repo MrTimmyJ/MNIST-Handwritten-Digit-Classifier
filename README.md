@@ -71,7 +71,7 @@ It provides a simple interface for decoding, reshaping, and displaying grayscale
 
 🚀 Getting Started
 
-    git clone https://github.com/yourusername/mnist-decoder.git
+    git clone https://github.com/MrTimmyJ/mnist-decoder.git
     cd mnist-decoder
 
     # Download MNIST dataset files
